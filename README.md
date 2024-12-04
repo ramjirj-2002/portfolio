@@ -1,2 +1,2 @@
 # portfolio
-dfghjklfgbhnjmk,
+nothing = 10000
